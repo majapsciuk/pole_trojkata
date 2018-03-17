@@ -1,2 +1,2 @@
-# pole_trojkata_python
+# pole_trojkata
 Obliczanie pola trojkata
